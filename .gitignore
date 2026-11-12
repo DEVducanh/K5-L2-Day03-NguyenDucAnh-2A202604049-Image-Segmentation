@@ -4,4 +4,8 @@ __pycache__/
 .ipynb_checkpoints/
 data/**/groundtruth/
 data/_cache/
-/*.zip
+/tiers_gt/
+/easy_sematic/
+/medium_instance/
+/hard_panoptic/
+
